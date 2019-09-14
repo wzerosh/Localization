@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Export to file"
-msgstr "導出到文件"
+msgstr "出到文件"
 
 msgid "Export file"
 msgstr "导出文件"
@@ -104,13 +104,13 @@ msgid "Coloring by delta"
 msgstr "着色的三角洲"
 
 msgid "Coloring by trades"
-msgstr "按行业着色"
+msgstr "按成交着色"
 
 msgid "Histogram"
 msgstr "直方图"
 
 msgid "Enabled"
-msgstr "啟用"
+msgstr "启用"
 
 msgid "Bids"
 msgstr "买价"
@@ -167,13 +167,13 @@ msgid "Price"
 msgstr "价格"
 
 msgid "Imbalance"
-msgstr "失衡"
+msgstr "不平衡"
 
 msgid "Imb. bar"
-msgstr "伊姆酒吧"
+msgstr "不平衡"
 
 msgid "Imbalance bar"
-msgstr "不平衡栏"
+msgstr "不平衡条"
 
 msgid "Chart"
 msgstr "图表"
@@ -416,10 +416,10 @@ msgid "Add indicator"
 msgstr "添加指标"
 
 msgid "Bar by bar moving"
-msgstr "酒吧酒吧移动"
+msgstr "逐条移动"
 
 msgid "Change symbol"
-msgstr "添加产品"
+msgstr "更改产品"
 
 msgid "Show Object manager"
 msgstr "显示对象管理器"
